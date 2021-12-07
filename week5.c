@@ -1,4 +1,5 @@
-#import <stdio.h>
+#include <stdio.h>
+#include "windspeeddata.h"
 
 int main() {
 	// replace the contents of this file with your code
